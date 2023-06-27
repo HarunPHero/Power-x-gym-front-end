@@ -1,0 +1,11 @@
+.banner{
+    background-image: url("../../images/Image-Icon/bannerImage.jpg");
+
+    background-repeat: no-repeat;
+}
+.banner-text{
+    color: rgb(207, 207, 207);
+}
+.bigX{
+   width: 400px;
+}

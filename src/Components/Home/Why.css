@@ -1,0 +1,21 @@
+.why-card-1 {
+  background-color: rgba(241, 241, 241, 0.308);
+}
+.why-card-2 {
+  background-color: rgba(241, 241, 241, 0.37);
+}
+.why-card-3 {
+  background-color: rgba(241, 241, 241, 0.349);
+}
+.why-card-1:hover,
+.why-card-2:hover,
+.why-card-3:hover {
+ border: 3px solid rgb(252, 211, 30);
+}
+.why{
+    background-image: url("../../images/Image-Icon/cross2.png");
+    background-size: 1%;
+    background-repeat: repeat;
+    
+}
+ 

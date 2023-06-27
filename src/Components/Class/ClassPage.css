@@ -1,0 +1,22 @@
+.class-detail {
+  background-image: url("../../images/Image-Icon/bannerImage.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.all-classes {
+  display: flex;
+}
+/* Apply flex layout for large and medium devices only */
+@media only screen and (max-width: 991px) {
+  .all-classes {
+    display: block;
+  }
+  .right-side {
+    margin-top: 2rem;
+  }
+}
+.class-img {
+   width:450px ;
+   height:350px ;
+    object-fit: cover;
+  }

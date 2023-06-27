@@ -1,0 +1,10 @@
+.classes{
+    background-image: url("../../images/Image-Icon/bannerImage.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.card-img{
+    height:250px;
+    width:300px;
+    object-fit: cover;
+}

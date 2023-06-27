@@ -1,0 +1,219 @@
+[
+  {
+    "id": 1,
+    "name": "PSYCNO TRAINING",
+    "img": "https://i.ibb.co/vDwqf7b/victor-freitas-Wv-DYd-XDzkhs-unsplash-min.jpg",
+    "description": "PSYCNO TRAINING is a high-intensity interval training (HIIT) workout that incorporates strength and cardio exercises to increase endurance, build strength and burn calories. This class is designed to challenge both the body and mind, and is suitable for all fitness levels.",
+    "points": [
+      "Build strength and endurance",
+      "Burn calories and lose weight",
+      "Improve cardiovascular health",
+      "Increase mental focus and clarity",
+      "Strengthen mind-body connection",
+      "Boost energy and reduce stress"
+    ],
+    "schedule": [
+      {
+        "day": "Monday",
+        "times": ["8:00am", "6:00pm"]
+      },
+      {
+        "day": "Tuesday",
+        "times": ["10:00am", "5:30pm"]
+      },
+      {
+        "day": "Wednesday",
+        "times": ["9:00am", "7:00pm"]
+      },
+      {
+        "day": "Thursday",
+        "times": ["8:00am", "6:00pm"]
+      },
+      {
+        "day": "Friday",
+        "times": ["10:00am", "5:30pm"]
+      },
+      {
+        "day": "Saturday",
+        "times": ["9:00am", "11:00am"]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "SELF DEFENSE",
+    "img": "https://i.ibb.co/zrtshYg/baylee-gramling-5m4-Z14-SDL80-unsplash-min.jpg",
+    "description": "SELF DEFENSE is a class designed to teach basic self-defense techniques to help you protect yourself in real-world situations. You'll learn how to defend yourself against common attacks and develop the confidence and skills you need to stay safe.",
+    "points": [
+      "Learn basic self-defense techniques",
+      "Build confidence and self-esteem",
+      "Develop physical and mental strength",
+      "Improve coordination and balance",
+      "Reduce stress and anxiety",
+      "Enhance overall well-being"
+    ],
+    "schedule": [
+      {
+        "day": "Monday",
+        "times": ["5:30pm", "7:00pm"]
+      },
+      {
+        "day": "Wednesday",
+        "times": ["6:30pm", "8:00pm"]
+      },
+      {
+        "day": "Friday",
+        "times": ["5:30pm", "7:00pm"]
+      }
+    ]
+  },
+
+  {
+    "id": 3,
+    "name": "ADVANCE GYM",
+    "img": "https://i.ibb.co/jfndThw/humphrey-muleba-LOA2m-Tj1vhc-unsplash-min.jpg",
+    "description": "ADVANCE GYM is a class designed for experienced gym-goers who want to take their fitness to the next level. This class focuses on strength and conditioning exercises that help build muscle, improve endurance and increase overall fitness.",
+    "points": [
+      "Challenge yourself with advanced exercises",
+      "Build muscle and increase strength",
+      "Improve endurance and cardiovascular health",
+      "Enhance overall athletic performance",
+      "Stay motivated and accountable",
+      "Connect with like-minded gym-goers"
+    ],
+    "schedule": [
+      {
+        "day": "Monday",
+        "times": ["6:00am", "7:00am"]
+      },
+      {
+        "day": "Wednesday",
+        "times": ["6:00am", "7:00am"]
+      },
+      {
+        "day": "Friday",
+        "times": ["6:00am", "7:00am"]
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "CARDIO TRAINING",
+    "img": "https://i.ibb.co/ygk6xxD/alora-griffiths-Tuzrz-Arccvc-unsplash-min.jpg",
+    "description": "CARDIO TRAINING is a high-energy, fast-paced workout that combines cardio exercises such as running, jumping, and plyometrics to get your heart rate up and burn calories. This class is suitable for all fitness levels and is a great way to improve cardiovascular health, increase endurance and boost your metabolism.",
+    "points": [
+      "Improve cardiovascular health",
+      "Increase endurance and stamina",
+      "Burn calories and lose weight",
+      "Boost metabolism and energy levels",
+      "Strengthen mind-body connection",
+      "Have fun while getting fit"
+    ],
+    "schedule": [
+      {
+        "day": "Monday",
+        "times": ["7:00am", "6:00pm"]
+      },
+      {
+        "day": "Tuesday",
+        "times": ["9:00am", "5:30pm"]
+      },
+      {
+        "day": "Wednesday",
+        "times": ["8:00am", "7:00pm"]
+      },
+      {
+        "day": "Thursday",
+        "times": ["7:00am", "6:00pm"]
+      },
+      {
+        "day": "Friday",
+        "times": ["9:00am", "5:30pm"]
+      },
+      {
+        "day": "Saturday",
+        "times": ["8:00am", "11:00am"]
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "STRENGTH TRAINING",
+    "img": "https://i.ibb.co/WWMb3sQ/john-fornander-FIu48iuo-4g-unsplash-min.jpg",
+    "description": "STRENGTH TRAINING is a class that focuses on building strength, muscle and power. You'll use a variety of equipment such as dumbbells, barbells, and resistance bands to challenge your muscles and build lean mass. This class is suitable for all fitness levels and is a great way to improve overall fitness, increase bone density and burn fat.",
+    "points": [
+      "Build lean muscle mass",
+      "Increase overall strength and power",
+      "Improve bone density",
+      "Burn fat and lose weight",
+      "Reduce risk of injury",
+      "Boost confidence and self-esteem"
+    ],
+    "schedule": [
+      {
+        "day": "Monday",
+        "times": ["8:00am", "6:00pm"]
+      },
+      {
+        "day": "Tuesday",
+        "times": ["7:30am", "5:30pm"]
+      },
+      {
+        "day": "Wednesday",
+        "times": ["9:00am", "7:00pm"]
+      },
+      {
+        "day": "Thursday",
+        "times": ["8:00am", "6:00pm"]
+      },
+      {
+        "day": "Friday",
+        "times": ["7:30am", "5:30pm"]
+      },
+      {
+        "day": "Saturday",
+        "times": ["10:00am", "12:00pm"]
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "PSYCNO TRAINING",
+    "img": "https://i.ibb.co/crC82JC/sven-mieke-Lx-GDv7-VA9-M-unsplash-min.jpg",
+    "description": "PSYCNO TRAINING is a unique class that combines physical exercise with mindfulness and meditation techniques to improve mental health and wellbeing. In this class, you'll perform bodyweight exercises, yoga poses and breathing exercises to increase focus, reduce stress and improve mental clarity. This class is suitable for all fitness levels and is a great way to improve physical and mental health.",
+    "points": [
+      "Improve mental health and wellbeing",
+      "Increase focus and mental clarity",
+      "Reduce stress and anxiety",
+      "Improve physical strength and flexibility",
+      "Enhance mind-body connection",
+      "Promote overall wellness"
+    ],
+    "schedule": [
+      {
+        "day": "Monday",
+        "times": ["7:00am", "6:00pm"]
+      },
+      {
+        "day": "Tuesday",
+        "times": ["9:00am", "5:30pm"]
+      },
+      {
+        "day": "Wednesday",
+        "times": ["8:00am", "7:00pm"]
+      },
+      {
+        "day": "Thursday",
+        "times": ["7:00am", "6:00pm"]
+      },
+      {
+        "day": "Friday",
+        "times": ["9:00am", "5:30pm"]
+      },
+      {
+        "day": "Saturday",
+        "times": ["8:00am", "11:00am"]
+      }
+    ]
+  }
+]
